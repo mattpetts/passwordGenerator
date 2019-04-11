@@ -1,1 +1,1 @@
-# passwordGernerator
+# passwordGenerator
