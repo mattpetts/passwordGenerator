@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-
     <head>
-        <title>Generate a secure password for free | getapassword.co.uk</title>
+        <title>Generate a random secure password for free | getapassword.co.uk</title>
+        <meta name="description" content="Generate a random secure password completely free. Cutomise your password with variuos options"/>
 
         <!--CSS Includes-->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
